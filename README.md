@@ -1,6 +1,6 @@
 
 <p align="left">
-   <img src="blob:https://web.whatsapp.com/54da3446-2221-4c31-b5d0-ed2b58f9e1c9" alt="Whats-App-Image-2020-07-15-at-21-42-06-  2-2" border="0" width="100">
+   <img src="https://raw.githubusercontent.com/NicolasLopes7/NicolasLopes7/master/ffa2489a-82ad-48a1-aa34-fb0ae44453dc.webp" alt="Whats-App-Image-2020-07-15-at-21-42-06-  2-2" border="0" width="100">
 </p>
 
 🖖🏼 &nbsp;	Hi! I'm Nicolas, Founder/CEO and Back-End Developer at desenvolva.me, the best software house in Brazil!
