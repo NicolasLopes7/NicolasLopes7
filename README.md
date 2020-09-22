@@ -19,3 +19,4 @@ My passion for programming is related to create incredible things and help peopl
 ### ☕️&nbsp; Wanna chat? 
 👉🏼&nbsp; send an DM for me on [Instagram](https://www.instagram.com/nicolaslopess__/?hl=pt-br)! 
 
+[![Junior's github stats](https://github-readme-stats.vercel.app/api?username=NicolasLopes7)](https://github.com/anuraghazra/github-readme-stats)
