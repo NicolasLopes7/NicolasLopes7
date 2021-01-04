@@ -11,10 +11,9 @@ My learning is based on creating projects and contributing to the open source co
 ### 💡&nbsp; Driven by shipping products that help people  
 My passion for programming is related to create incredible things and help people, doesn't matter the technology stack.  
 
-### 🔭&nbsp; Goals for 2020 
+### 🔭&nbsp; Goals for 2021 
 - Create my YouTube Channel, and start to stream at Twitch.
-- Learn new techs, like Go, Rust...
-- Improve my abilities in system design.
+- 1 million of revenues on my business
 
 
 ### ☕️&nbsp; Wanna chat? 
