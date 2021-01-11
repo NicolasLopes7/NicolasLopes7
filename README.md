@@ -13,7 +13,7 @@ My passion for programming is related to create incredible things and help peopl
 
 ### 🔭&nbsp; Goals for 2021 
 - Create my YouTube Channel, and start to stream at Twitch.
-- 1 million of revenues on my business
+- Work as software engineer in a company
 
 
 ### ☕️&nbsp; Wanna chat? 
