@@ -3,7 +3,7 @@
    <img src="https://raw.githubusercontent.com/NicolasLopes7/NicolasLopes7/master/ffa2489a-82ad-48a1-aa34-fb0ae44453dc.webp" alt="Whats-App-Image-2020-07-15-at-21-42-06-  2-2" border="0" width="100">
 </p>
 
-🖖🏼 &nbsp;	Hi! I'm Nicolas, CEO at desenvolva.me, and co-founder at barberfy
+🖖🏼 &nbsp;	Hi! I'm Nicolas, software engineer at incodde (currently workin' on evermart)
 
 ### ✨&nbsp; Seeking knowledge all the time  
 My learning is based on creating projects and contributing to the open source community 
@@ -13,8 +13,6 @@ My passion for programming is related to create incredible things and help peopl
 
 ### 🔭&nbsp; Goals for 2021 
 - Create my YouTube Channel, and start to stream at Twitch.
-- Work as software engineer in a company
-
 
 ### ☕️&nbsp; Wanna chat? 
 👉🏼&nbsp; send an DM for me on [Instagram](https://www.instagram.com/nicolaslopess__/?hl=pt-br)!
