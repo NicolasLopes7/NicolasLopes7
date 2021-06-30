@@ -3,7 +3,7 @@
    <img src="https://raw.githubusercontent.com/NicolasLopes7/NicolasLopes7/master/ffa2489a-82ad-48a1-aa34-fb0ae44453dc.webp" alt="Whats-App-Image-2020-07-15-at-21-42-06-  2-2" border="0" width="100">
 </p>
 
-🖖🏼 &nbsp;	Hi! I'm Nicolas, software engineer at incodde (currently working on evermart)
+🖖🏼 &nbsp;	Hi! I'm Nicolas, backend engineer at @pagar.me 
 
 ### ✨&nbsp; Seeking knowledge all the time  
 My learning is based on creating projects and contributing to the open source community 
