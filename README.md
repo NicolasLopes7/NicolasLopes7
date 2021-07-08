@@ -18,7 +18,7 @@ My passion for programming is related to create things and solve problems, doesn
 👉🏼&nbsp; send an DM for me on [LinkedIn](https://www.linkedin.com/in/nicolas-lopes-00a6781a2/)!
 <br/>
 <br/>
-[![Junior's github stats](https://github-readme-stats.vercel.app/api?username=NicolasLopes7&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Junior's github stats](https://github-readme-stats.vercel.app/api?username=NicolasLopes7&count_private=true&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> 
   Visits count on my profile: <br/>
