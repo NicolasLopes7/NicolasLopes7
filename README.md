@@ -24,7 +24,3 @@ My passion for programming is related to create things and solve problems, doesn
   Visits count on my profile: <br/>
   <img src="https://profile-counter.glitch.me/nicolaslopes7/count.svg">
 </p>
-
-<script>
-   console.log("running")
-</script>
