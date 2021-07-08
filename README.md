@@ -15,7 +15,7 @@ My passion for programming is related to create things and solve problems, doesn
 - Create my YouTube Channel, and start to stream at Twitch.
 
 ### ☕️&nbsp; Wanna chat? 
-👉🏼&nbsp; send an DM for me on [Instagram](https://www.instagram.com/nicolaslopess__/?hl=pt-br)!
+👉🏼&nbsp; send an DM for me on [LinkedIn](https://www.linkedin.com/in/nicolas-lopes-00a6781a2/)!
 <br/>
 <br/>
 [![Junior's github stats](https://github-readme-stats.vercel.app/api?username=NicolasLopes7)](https://github.com/anuraghazra/github-readme-stats)
