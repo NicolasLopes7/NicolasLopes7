@@ -11,8 +11,10 @@ My learning is based on creating projects and contributing to the open source co
 ### 💡&nbsp; Driven by shipping products that help people  
 My passion for programming is related to create things and solve problems, doesn't matter the technology stack.  
 
-### 🔭&nbsp; Goals for 2021 
-- Create my YouTube Channel, and start to stream at Twitch.
+### 🔭&nbsp; Goals for 2022 
+- Start to work abroad
+- Run my own SaaS
+- Master Web3
 
 ### ☕️&nbsp; Wanna chat? 
 👉🏼&nbsp; send an DM for me on [LinkedIn](https://www.linkedin.com/in/nicolas-lopes-00a6781a2/)!
