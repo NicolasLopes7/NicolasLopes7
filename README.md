@@ -15,7 +15,7 @@ My passion for programming is related to create things and solve problems, doesn
 - Start my youtube channel
 
 ### ☕️&nbsp; Wanna chat? 
-👉🏼&nbsp; send an DM for me on [LinkedIn](https://www.linkedin.com/in/nicolas-lopes-00a6781a2/)!
+👉🏼&nbsp; send an DM for me on [LinkedIn](https://www.linkedin.com/in/nicolas-lopes-00a6781a2/)! or [Instagram](https://www.instagram.com/nicolaslopess__/)!
 <br/>
 <br/>
 [![Junior's github stats](https://github-readme-stats.vercel.app/api?username=NicolasLopes7&count_private=true&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)
