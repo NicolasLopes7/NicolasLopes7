@@ -11,9 +11,6 @@ My learning is based on creating projects and contributing to the open source co
 ### 💡&nbsp; Driven by shipping products that help people  
 My passion for programming is related to create things and solve problems, doesn't matter the technology stack.  
 
-### 🔭&nbsp; Goals for 2022 
-- Start my youtube channel
-
 ### ☕️&nbsp; Wanna chat? 
 👉🏼&nbsp; send an DM for me on [LinkedIn](https://www.linkedin.com/in/nicolas-lopes-00a6781a2/)! or [Instagram](https://www.instagram.com/nicolaslopess__/)!
 <br/>
