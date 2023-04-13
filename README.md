@@ -6,7 +6,3 @@
 i'm Nicolas, senior software engineer at x-team and enthusiast about the edge tech on the web.
 
 building products, helping people and learning in public is my way of life. reach me out on [twitter](https://twitter.com/nicolaslopess__).
-
-
-<img width="333" alt="Screen Shot 2022-11-21 at 23 00 49" src="https://user-images.githubusercontent.com/57234795/203198794-4cf984b1-bfee-43f6-b7a9-7da52450a145.png">
-
